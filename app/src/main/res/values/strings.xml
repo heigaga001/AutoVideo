@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoVideo</string>
+    <string name="accessibility_description">启动自动视频服务</string>
+</resources>
